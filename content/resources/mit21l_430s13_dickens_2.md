@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus and Calendar
 parent_type: CourseSection
+parent_uid: 367a04c5-c983-5df8-074e-920fddee31ad
 resourcetype: Document
 title: Collected Prefaces to the Pickwick Papers
 uid: 24d925ce-0493-95d8-6959-d29e19caa32b

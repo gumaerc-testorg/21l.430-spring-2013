@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus and Calendar
 parent_type: CourseSection
+parent_uid: 367a04c5-c983-5df8-074e-920fddee31ad
 resourcetype: Document
 title: The Pickwick Papers, Chapters 1 & 2
 uid: 26a79bb3-2740-da72-4657-896f332ef750

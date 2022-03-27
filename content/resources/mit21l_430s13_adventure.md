@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus and Calendar
 parent_type: CourseSection
+parent_uid: 367a04c5-c983-5df8-074e-920fddee31ad
 resourcetype: Document
 title: The Adventure of the Speckled Band
 uid: fc1c78ed-095e-b824-c712-4468e8a400e0
