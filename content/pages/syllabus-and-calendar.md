@@ -17,7 +17,7 @@ Seminars: 2 sessions / week, 2 hours / session
 
 \[AT\] = Tennyson, Alfred. *In* *Memoriam*. W.W. Norton & Company, 2003. ISBN: 9780393979268.
 
-\[DS\] = [*The Wire: The Complete First Season*](http://www.imdb.com/title/tt0306414/). Created by David Simon. Home Box Office, Inc., 2004. DVD.
+\[DS\] = {{% resource_link "34581220-6e23-4413-9564-c98e03df4069" "*The Wire: The Complete First Season*" %}}. Created by David Simon. Home Box Office, Inc., 2004. DVD.
 
 DeLyria, Joy, and Sean Michael Robinson. *Down in the Hole: The UnWired World of H. B. Ogden*. powerHouse Books, 2012. ISBN: 9781576876022.
 
@@ -49,11 +49,11 @@ Thresholds of Serial: Rembrandt
 {{< tdclose >}}{{< tdopen >}}
 
 [Rembrandt: The Self-Portraits (PDF - 21.1MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Rembrandt.pdf)   
-[Gallery at Rembrandtpainting.net](http://www.rembrandtpainting.net/complete_catalogue/start_self_portraits.htm)
+{{% resource_link "d475176d-70ee-4d0a-8924-69b4aef5ff90" "Gallery at Rembrandtpainting.net" %}}
 
-Vincent, Jean. "[The Aging Face of Rembrandt](http://thinking-about-art.blogspot.com/2007/11/aging-face-of-rembrandt.html)." *Thinking About Art*. Blog post with embedded video not produced by the author. November 27, 2011.
+Vincent, Jean. "{{% resource_link "13bcccca-7b5b-4d4f-b09e-315461b233f2" "The Aging Face of Rembrandt" %}}." *Thinking About Art*. Blog post with embedded video not produced by the author. November 27, 2011.
 
-Stevens, Wallace. "[Thirteen Ways of Looking at a Blackbird](http://www.writing.upenn.edu/~afilreis/88/stevens-13ways.html)." 1917.
+Stevens, Wallace. "{{% resource_link "6f3ef7ed-a0b1-42a5-a6f3-b501d4ba5f42" "Thirteen Ways of Looking at a Blackbird" %}}." 1917.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -65,11 +65,11 @@ Thresholds of Serial: Rembrandt (cont.)
 
 Chapman, H. Perry. "The Self Fashioned." In *Rembrandt's Self-Portraits: A Study in Seventeenth-Century Identity*. Princeton University Press, 1990. ISBN: 9780691040615.
 
-Koerner, Joseph Leo. "[Rembrandt and the Epiphany of the Face](http://www.jstor.org/stable/20166751)." *RES: Anthropology and Aesthetics*, no. 12 (1986): 5–32.
+Koerner, Joseph Leo. "{{% resource_link "8da1a03f-d36b-4452-9ab4-54569fcd5ff0" "Rembrandt and the Epiphany of the Face" %}}." *RES: Anthropology and Aesthetics*, no. 12 (1986): 5–32.
 
-Schwartz, Frederic. "'[The Motions of the Countenance': Rembrandt's Early Portraits and the Tronie](http://www.jstor.org/stable/20166816)." *RES: Anthropology and Aesthetics*, no. 17/18 (1989): 89–116.
+Schwartz, Frederic. "'{{% resource_link "ad5eacf5-0e02-4831-947d-8c0787087447" "The Motions of the Countenance': Rembrandt's Early Portraits and the Tronie" %}}." *RES: Anthropology and Aesthetics*, no. 17/18 (1989): 89–116.
 
-Auden, W. H. "[Musée des Beaux Arts](http://english.emory.edu/classes/paintings&poems/auden.html)." 1938.
+Auden, W. H. "{{% resource_link "0eef4c42-06fe-4b49-8beb-044d92977eb1" "Musée des Beaux Arts" %}}." 1938.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -77,11 +77,11 @@ Auden, W. H. "[Musée des Beaux Arts](http://english.emory.edu/classes/paintings
 Sequence and Argument: Goya
 {{< tdclose >}}{{< tdopen >}}
 
-Goya, Francisco. [*The Disasters of War* (1810–1820)](http://www.richardharrisartcollection.com/portfolio-view/francisco-goya-2/).   
+Goya, Francisco. {{% resource_link "5a53e49f-549d-497f-9299-0d1cb470b2b4" "*The Disasters of War* (1810–1820)" %}}.   
 [Prints 1–30 (PDF - 17.2MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_1.pdf)   
 [Prints 31–60 (PDF - 17.5MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_2.pdf)   
 [Prints 61–83 (PDF - 14.7MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_3.pdf)   
-[Gallery at Wikimedia Commons](http://commons.wikimedia.org/wiki/Los_desastres_de_la_guerra)
+{{% resource_link "a4991195-2ef7-46cc-bf26-4316499b90d8" "Gallery at Wikimedia Commons" %}}
 
 Hughes, Robert. "War with Napoleon." In *Goya*. Knopf, 2006. ISBN: 9780375711282.
 
@@ -105,11 +105,11 @@ Inventing the Multiverse: Comics
 
 \[DS\] Episode 4.
 
-Eco, Umberto, and Natalie Chilton. "[The Myth of Superman](http://www.jstor.org/stable/464920)." *Diacritics* 2, no. 1 (1972): 14–22.
+Eco, Umberto, and Natalie Chilton. "{{% resource_link "82f35ba5-ed25-42f1-b159-371177577721" "The Myth of Superman" %}}." *Diacritics* 2, no. 1 (1972): 14–22.
 
-Burgas, Greg. "[Compressed Storytelling versus Decompressed Storytelling](http://goodcomics.comicbookresources.com/2007/10/25/compressed-storytelling-versus-decompressed-storytelling-pros-and-cons/)." Reblogged by Brian Cronin at ComicBookResources.com. October 25, 2007.
+Burgas, Greg. "{{% resource_link "1ed8c5f8-62c7-4c5b-8fe8-4a8fcfe765ee" "Compressed Storytelling versus Decompressed Storytelling" %}}." Reblogged by Brian Cronin at ComicBookResources.com. October 25, 2007.
 
-Rhoades, Shirrel. Chapters 2, 4, 5, and 6 in *A Complete History of American Comic Books*. Peter Lang, 2008. ISBN: 9781433101076. \[Preview with [Google Books](http://books.google.com/books?id=O16BXbITZwEC&&pg=PAfrontcover)\]
+Rhoades, Shirrel. Chapters 2, 4, 5, and 6 in *A Complete History of American Comic Books*. Peter Lang, 2008. ISBN: 9781433101076. \[Preview with {{% resource_link "3e66d3f8-2071-4b97-9673-7025473d2f0b" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -123,7 +123,7 @@ Ball, Edward. *The Inventor and the Tycoon*. Anchor, 2013, pp. 15–21, 71–2, 
 
 Edweard Muybridge, photographs.
 
-Duchamp, Marcel. [*Nude Descending a Staircase, No. 2*](http://2.bp.blogspot.com/_-XqtscwAOzg/TLg6sYaOWuI/AAAAAAAAAwA/kNB8kOJOWu0/s1600/nude+_no2.jpg). 1912.
+Duchamp, Marcel. {{% resource_link "b58e5955-926d-4753-8b05-a54908332eda" "*Nude Descending a Staircase, No. 2*" %}}. 1912.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -134,15 +134,15 @@ The Challenge of Formula: Journalism 
 
 \[DS\] Episode 5.
 
-Darnton, Robert. "[Writing News and Telling Stories](http://www.jstor.org/stable/20024337)." *Daedalus* 104, no. 2 (1975): 175–94.
+Darnton, Robert. "{{% resource_link "fe74b60b-5dfc-4a30-bfed-42671ec44523" "Writing News and Telling Stories" %}}." *Daedalus* 104, no. 2 (1975): 175–94.
 
-"[Scene In](http://www.washingtonpost.com/wp-srv/special/artsandliving/scene-in/index.html?order=chronological&episode=5)" (4 episodes). WashingtonPost.Com. Web video series.
+"{{% resource_link "0bee4fc9-28bc-4fb6-823b-91e322ff2b24" "Scene In" %}}" (4 episodes). WashingtonPost.Com. Web video series.
 
-Heath, Chris. "[18 Tigers, 17 Lions, 8 Bears, 3 Cougars, 2 Wolves, 1 Baboon, 1 Macaque, and 1 Man Dead in Ohio](http://www.gq.com/news-politics/newsmakers/201203/terry-thompson-ohio-zoo-massacre-chris-heath-gq-february-2012)." *GQ*, March 2012.
+Heath, Chris. "{{% resource_link "000811a5-f5af-4f26-a64e-3b08a2a6bac6" "18 Tigers, 17 Lions, 8 Bears, 3 Cougars, 2 Wolves, 1 Baboon, 1 Macaque, and 1 Man Dead in Ohio" %}}." *GQ*, March 2012.
 
-Jones, Chris. "[Animals](http://www.esquire.com/features/zanesville-0312)." *Esquire*, March 2012.
+Jones, Chris. "{{% resource_link "a4aeb6d9-e332-4ece-8681-3ffa04e2fb15" "Animals" %}}." *Esquire*, March 2012.
 
-Ogles, Jonah. "[Man or Beast?](http://www.cincinnatimagazine.com/features/man-or-beast3/)" *Cincinnati*, March 1, 2012.
+Ogles, Jonah. "{{% resource_link "38178f23-4df2-4ff8-a256-347e16156ddb" "Man or Beast?" %}}" *Cincinnati*, March 1, 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -152,9 +152,9 @@ The Challenge of Formula: Journalism (cont.)
 
 Orwell, George. "Boys' Weeklies." In *All Art Is Propaganda*. Mariner Books, 2009. ISBN: 9780156033077.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262631594) McLuhan, Marshall. "The Medium is the Message." In *Understanding Media: The Extensions of Man*. The MIT Press, 1964. ISBN: 9780262631594.
+{{% resource_link "d62a2c88-09c3-4355-b906-0e9296747f60" "![Buy at MIT Press](/images/mp_logo.gif)" %}} McLuhan, Marshall. "The Medium is the Message." In *Understanding Media: The Extensions of Man*. The MIT Press, 1964. ISBN: 9780262631594.
 
-Stevens, Wallace. "[Anecdote of the Jar](http://www.poetryfoundation.org/poetrymagazine/poem/3778)." 1919.
+Stevens, Wallace. "{{% resource_link "05b84f40-9c99-4fc3-90c6-bdde5613d00b" "Anecdote of the Jar" %}}." 1919.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -180,9 +180,9 @@ Stasis and Progress: Tennyson, *In Memoriam* (cont.)
 
 Tennyson, Alfred. "Introduction." In *In Memoriam*. Edited by Susan Shatto and Marion Shaw. Clarendon Press, 1982. ISBN: 9780198127475.
 
-Landseer, Edwin Henry. "[Man Proposes God Disposes](http://www.english-for-students.com/man-proposes-but-god-disposes.html)." 1864.
+Landseer, Edwin Henry. "{{% resource_link "c9e5023c-5888-4b65-abe8-b44e548d3947" "Man Proposes God Disposes" %}}." 1864.
 
-Dyce, William. "[Pegwell Bay, Kent—A Recollection of October 5th 1858](http://www.tate.org.uk/art/images/work/N/N01/N01407_10.jpg)." 1860.
+Dyce, William. "{{% resource_link "0b920b82-c4f1-4126-ab3a-f80925115cb1" "Pegwell Bay, Kent—A Recollection of October 5th 1858" %}}." 1860.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
@@ -192,7 +192,7 @@ The Hero's Journey: Tennyson, *Morte D'Arthur*
 
 \[DS\] Episode 7.
 
-Tennyson, Alfred Lord. "[The Epic](http://d.lib.rochester.edu/camelot/text/tennyson-epic)," and "[Morte D'Arthur](http://d.lib.rochester.edu/camelot/text/tennyson-epic)." 1842.
+Tennyson, Alfred Lord. "{{% resource_link "17064d15-8dd7-46ad-8785-dced7c8e3cf5" "The Epic" %}}," and "{{% resource_link "17064d15-8dd7-46ad-8785-dced7c8e3cf5" "Morte D'Arthur" %}}." 1842.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -205,7 +205,7 @@ Whole Into Parts: Charles Dickens, *The Pickwick Papers*
 Dickens, Charles. {{% resource_link "24d925ce-0493-95d8-6959-d29e19caa32b" "Prefaces (PDF)" %}} in *The Pickwick Papers.*
 
 ———. {{% resource_link "26a79bb3-2740-da72-4657-896f332ef750" "Chapters 1–2 (PDF)" %}} in *The Pickwick Papers*.   
-(Full text at [Project Gutenberg](http://www.gutenberg.org/ebooks/580).)
+(Full text at {{% resource_link "40373594-27a3-4395-9630-d6ce9d1d0ff4" "Project Gutenberg" %}}.)
 
 Hughes, Linda K., and Michael Lund. "Introducing the Serial." In *The Victorian Serial*. University of Virginia Press, 1991. ISBN: 9780813913148.
 
@@ -215,7 +215,7 @@ Hughes, Linda K., and Michael Lund. "Introducing the Serial." In *The Victorian 
 Whole Into Parts: Charles Dickens, *Bleak House*
 {{< tdclose >}}{{< tdopen >}}
 
-Dickens, Charles. [*Bleak House*](http://www.gutenberg.org/ebooks/1023). 1853.
+Dickens, Charles. {{% resource_link "25ae5ef3-f698-43c8-8d85-87f7b5024822" "*Bleak House*" %}}. 1853.
 
 \[DS\] Episode 9.
 
@@ -229,19 +229,19 @@ Altick, Richard D. "English Publishing and the Mass Audience in 1852." In *Write
 The Reader Replies: Sherlock Holmes
 {{< tdclose >}}{{< tdopen >}}
 
-Moretti, Franco. ["The Slaughterhouse of Literature." (PDF)](https://msu.edu/course/eng/487/johnsen/61.1moretti.pdf) *MLQ: Modern Language Quarterly* 61, no. 1 (2000): 207–27.
+Moretti, Franco. {{% resource_link "02b14360-8994-4e19-92df-d57cb3220470" "\"The Slaughterhouse of Literature.\" (PDF)" %}} *MLQ: Modern Language Quarterly* 61, no. 1 (2000): 207–27.
 
 Conan Doyle, Arthur. {{% resource_link "fc1c78ed-095e-b824-c712-4468e8a400e0" "\"The Adventure of the Speckled Band\" (PDF - 1.5MB)" %}}.  *The Strand Magazine*, February 1892, 108-123. (note: this PDF is a scan of the original 1892 publication)
 
-Conan Doyle, Arthur.  "[The Adventure of the Red-Headed League](http://www.gutenberg.org/ebooks/1661)."  In *The Adventures of Sherlock Holmes*. George Newnes Ltd, 1892.
+Conan Doyle, Arthur.  "{{% resource_link "13a35f64-adbe-4bad-b05c-6463fd3b3239" "The Adventure of the Red-Headed League" %}}."  In *The Adventures of Sherlock Holmes*. George Newnes Ltd, 1892.
 
-Conan Doyle, Arthur. "[The Final Problem](http://www.gutenberg.org/ebooks/834)." In *The Memoirs of Sherlock Holmes*.  George Newnes Ltd, 1894.
+Conan Doyle, Arthur. "{{% resource_link "b3817a54-3f78-45c0-8e43-5f6775a34d72" "The Final Problem" %}}." In *The Memoirs of Sherlock Holmes*.  George Newnes Ltd, 1894.
 
 [Selected excerpts (PDF - 13.2MB)](/ans7870/21l/21l.430/s13/MIT21L_430S13_Holmes-new.pdf) from other Holmes Stories.
 
 ### Optional Reading
 
-Orwell, George. "[Decline of the English Murder](http://orwell.ru/library/articles/decline/english/e_doem)," *Tribune*, February 15, 1946.
+Orwell, George. "{{% resource_link "21330a8f-649a-4dc7-bfac-eb02bcd48f5e" "Decline of the English Murder" %}}," *Tribune*, February 15, 1946.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -251,13 +251,13 @@ The Reader Replies: Sherlock Holmes (cont.)
 
 \[DS\] Episode 10.
 
-Jurgensen, John. "[Binge Viewing: TV's Lost Weekends](https://www.wsj.com/articles/SB10001424052702303740704577521300806686174)," *The Wall Street Journal*, July 13, 2012.
+Jurgensen, John. "{{% resource_link "b3a5789b-b3bb-40c4-a332-a441df5fb158" "Binge Viewing: TV's Lost Weekends" %}}," *The Wall Street Journal*, July 13, 2012.
 
-Armisen, Fred, and Carrie Brownstein. "[Battlestar Galactica](https://www.youtube.com/watch?v=aQttrkzWOo4)." *Portlandia*. Selection of comedic sketch originally produced for prestige television, subsequently made available for marketing purposes. Broadway Video Television and IFC Original Productions, 2011.
+Armisen, Fred, and Carrie Brownstein. "{{% resource_link "787fdbdd-83a7-49c5-9d55-2d67b8513444" "Battlestar Galactica" %}}." *Portlandia*. Selection of comedic sketch originally produced for prestige television, subsequently made available for marketing purposes. Broadway Video Television and IFC Original Productions, 2011.
 
-Armisen, Fred, Carrie Brownstein, et al. "[Spoiler Alert](https://www.youtube.com/watch?v=NwrvDwIw5is)." *Portlandia*. Selection of comedic sketch originally produced for prestige television, subsequently made available for marketing purposes. Broadway Video Television and IFC Original Productions, 2013.
+Armisen, Fred, Carrie Brownstein, et al. "{{% resource_link "543b351c-7df1-496b-930f-ea90c36ece63" "Spoiler Alert" %}}." *Portlandia*. Selection of comedic sketch originally produced for prestige television, subsequently made available for marketing purposes. Broadway Video Television and IFC Original Productions, 2013.
 
-Garcia, Alexandra, Jason Spingarn-Koff, et al. "[Downton Abbey Spoiler Alert](http://www.ew.com/article/2013/01/27/downton-abbey-season-4-spoilers)." *Convergence Journalism? Emerging Documentary and Multimedia Forms of News*. One minute segment of recorded forum session. MIT Communications Forum, 2013, 01:27:00–01:28:00.
+Garcia, Alexandra, Jason Spingarn-Koff, et al. "{{% resource_link "fe90aa5f-b20d-42e3-a148-a3a80b3d97d7" "Downton Abbey Spoiler Alert" %}}." *Convergence Journalism? Emerging Documentary and Multimedia Forms of News*. One minute segment of recorded forum session. MIT Communications Forum, 2013, 01:27:00–01:28:00.
 
 Condry, Ian. "Making a Cutting-Edge Anime Studio: The Value of the Gutter." In *The Soul of Anime*. Duke University Press Books, 2013. ISBN: 9780822353805.
 
@@ -267,7 +267,7 @@ Condry, Ian. "Making a Cutting-Edge Anime Studio: The Value of the Gutter." In *
 Parts Into Whole: Charlie Chaplin, *The Gold Rush*
 {{< tdclose >}}{{< tdopen >}}
 
-Chaplin, Charlie. Selected short films & [*The Gold Rush*](http://www.youtube.com/watch?v=nt-_DXC-aik). 1925.
+Chaplin, Charlie. Selected short films & {{% resource_link "8d1cf7ef-03b5-4292-9a8d-51d70a10cdbe" "*The Gold Rush*" %}}. 1925.
 
 Mast, Gerald and Bruce F. Kawin. "Mark Sennett and the Chaplin Shorts," and "The Comics." In *A Short History of the Movies*. 6th ed. Allyn & Bacon, 1996. ISBN: 9780023770753.
 
@@ -279,7 +279,7 @@ Parts Into Whole: Charlie Chaplin, *Modern Times*
 
 \[DS\] Episode 11.
 
-[*Modern Times*](http://www.imdb.com/title/tt0027977/). Directed by Charlie Chaplin. Black and White, 87 min. 1936.
+{{% resource_link "98625c2a-73ad-47b7-a6b5-2a3e22cf79fe" "*Modern Times*" %}}. Directed by Charlie Chaplin. Black and White, 87 min. 1936.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -289,7 +289,7 @@ Remediation: The Wire
 
 \[DS\] Episode 12.
 
-Bolter, Jay David, and Richard Grusin. ["Remediation." (PDF)](https://monoskop.org/images/a/ae/Bolter_Jay_David_Grusin_Richard_Remediation_Understanding_New_Media_low_quality.pdf) *Configurations* 4, no. 3 (1996): 311–58.
+Bolter, Jay David, and Richard Grusin. {{% resource_link "70341108-bb7f-40e3-ba1d-6550d062285d" "\"Remediation.\" (PDF)" %}} *Configurations* 4, no. 3 (1996): 311–58.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -299,9 +299,9 @@ Remediation: The Wire (cont.)
 
 \[DS\] Episode 13.
 
-Mittell, Jason. "[All in the Game: The Wire, Serial Storytelling, and Procedural Logic](http://justtv.wordpress.com/2007/05/22/the-wire-and-the-serial-procedural-an-essay-in-progress/)." 2007.
+Mittell, Jason. "{{% resource_link "94dda620-9ec3-425d-9215-e7f74e1c86a6" "All in the Game: The Wire, Serial Storytelling, and Procedural Logic" %}}." 2007.
 
-Anderson, Paul Allen. "['The Game Is the Game': Tautology and Allegory in The Wire](http://dx.doi.org/10.1353/crt.2010.0043)." *Criticism* 52, no. 3–4 (2010): 373–98.
+Anderson, Paul Allen. "{{% resource_link "ad5c0b8b-23cf-4fae-ad20-639a6f35dde1" "'The Game Is the Game': Tautology and Allegory in The Wire" %}}." *Criticism* 52, no. 3–4 (2010): 373–98.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
@@ -311,7 +311,7 @@ Remediation: The Wire (cont.)
 
 DeLyria, Joy, and Sean Michael Robinson. *Down in the Hole: The UnWired World of H. B. Ogden*. powerHouse Books, 2012. ISBN: 9781576876022.
 
-Owen, Paul. "[The Wire Re-Up: Season Five, Episode Eight—The Dickensian Aspects](http://www.theguardian.com/media/organgrinder/2010/apr/06/wire-charles-dickens-season-5-episode-8-dickensian)." *TheGuardian.com: Organ Grinder Blog*, April 5, 2010.
+Owen, Paul. "{{% resource_link "0bbebc21-46db-4cf3-ae24-42b1a328072d" "The Wire Re-Up: Season Five, Episode Eight—The Dickensian Aspects" %}}." *TheGuardian.com: Organ Grinder Blog*, April 5, 2010.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24–25
