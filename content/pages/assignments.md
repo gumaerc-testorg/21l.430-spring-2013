@@ -16,7 +16,7 @@ _Due: Session 9_
 
 1.  **Thirteen Ways of Looking at a Blackbird**
 
-Rearrange the poems in "{{% resource_link "6f3ef7ed-a0b1-42a5-a6f3-b501d4ba5f42" "Thirteen Ways of Looking at a Blackbird" %}}" to create two new possible narrative arcs. Write a persuasive explanation of each arc. What aspects of the poem do not change regardless of the ordering of the stanzas? What aspects of the poem absolutely change with the ordering of the stanzas? Where do you think the more substantial meaning of the poem resides—in the aspects that change with reordering, or the aspects that do not?
+Rearrange the poems in "[Thirteen Ways of Looking at a Blackbird](http://www.writing.upenn.edu/~afilreis/88/stevens-13ways.html)" to create two new possible narrative arcs. Write a persuasive explanation of each arc. What aspects of the poem do not change regardless of the ordering of the stanzas? What aspects of the poem absolutely change with the ordering of the stanzas? Where do you think the more substantial meaning of the poem resides—in the aspects that change with reordering, or the aspects that do not?
 
 3.  **Rembrandt**
 
