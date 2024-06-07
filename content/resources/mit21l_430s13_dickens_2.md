@@ -2,6 +2,7 @@
 content_type: resource
 description: Prefaces to Charles Dickens' The Pickwick Papers.
 file: /courses/21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013/24d925ce049395d86959d29e19caa32b_MIT21L_430S13_dickens_2.pdf
+file_size: 481435
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
