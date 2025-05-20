@@ -2,7 +2,7 @@
 content_type: resource
 description: Arthur Conan Doyle's "The Adventure of the Speckled Band."  The Strand
   Magazine, February 1892, 108-123.
-file: /ol-ocw-studio-app/courses/21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013/fc1c78ed095eb824c7124468e8a400e0_MIT21L_430S13_Adventure.pdf
+file: /courses/21l-430-popular-culture-and-narrative-serial-storytelling-spring-2013/fc1c78ed095eb824c7124468e8a400e0_MIT21L_430S13_Adventure.pdf
 file_size: 1621315
 file_type: application/pdf
 learning_resource_types: []
