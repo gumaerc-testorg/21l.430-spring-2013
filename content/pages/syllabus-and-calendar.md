@@ -48,7 +48,7 @@ Introducing the Serial
 Thresholds of Serial: Rembrandt
 {{< tdclose >}}{{< tdopen >}}
 
-[Rembrandt: The Self-Portraits (PDF - 21.1MB)](https://ocw-studio.odl.mit.edu/ans7870/21l/21l.430/s13/MIT21L_430S13_Rembrandt.pdf)     
+[Rembrandt: The Self-Portraits (PDF - 21.1MB)](https://ocw-studio.odl.mit.edu/ans7870/21l/21l.430/s13/MIT21L_430S13_Rembrandt.pdf)      
 [Gallery at Rembrandtpainting.net](http://www.rembrandtpainting.net/complete_catalogue/start_self_portraits.htm)
 
 Vincent, Jean. "[The Aging Face of Rembrandt](http://thinking-about-art.blogspot.com/2007/11/aging-face-of-rembrandt.html)." *Thinking About Art*. Blog post with embedded video not produced by the author. November 27, 2011.
@@ -77,10 +77,10 @@ Auden, W. H. "[Musée des Beaux Arts](http://english.emory.edu/classes/paintings
 Sequence and Argument: Goya
 {{< tdclose >}}{{< tdopen >}}
 
-Goya, Francisco. [*The Disasters of War* (1810–1820)](https://smarthistory.org/goya-and-theres-nothing-to-be-done-from-the-disasters-of-war/#:~:text=Francisco%20Goya%20created%20the%20aquatint,of%20Spain%20by%20Napoleon%20Bonaparte.).     
-[Prints 1–30 (PDF - 17.2MB)](https://ocw-studio.odl.mit.edu/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_1.pdf)     
-[Prints 31–60 (PDF - 17.5MB)](https://ocw-studio.odl.mit.edu/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_2.pdf)     
-[Prints 61–83 (PDF - 14.7MB)](https://ocw-studio.odl.mit.edu/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_3.pdf)     
+Goya, Francisco. [*The Disasters of War* (1810–1820)](https://smarthistory.org/goya-and-theres-nothing-to-be-done-from-the-disasters-of-war/#:~:text=Francisco%20Goya%20created%20the%20aquatint,of%20Spain%20by%20Napoleon%20Bonaparte.).      
+[Prints 1–30 (PDF - 17.2MB)](https://ocw-studio.odl.mit.edu/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_1.pdf)      
+[Prints 31–60 (PDF - 17.5MB)](https://ocw-studio.odl.mit.edu/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_2.pdf)      
+[Prints 61–83 (PDF - 14.7MB)](https://ocw-studio.odl.mit.edu/ans7870/21l/21l.430/s13/MIT21L_430S13_Goya_3.pdf)      
 [Gallery at Wikimedia Commons](http://commons.wikimedia.org/wiki/Los_desastres_de_la_guerra)
 
 Hughes, Robert. "War with Napoleon." In *Goya*. Knopf, 2006. ISBN: 9780375711282.
@@ -128,7 +128,7 @@ Duchamp, Marcel. [*Nude Descending a Staircase, No. 2*](http://2.bp.blogspot.com
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-The Challenge of Formula: Journalism     
+The Challenge of Formula: Journalism      
 *Guest speaker: Alexandra Garcia, The Washington Post*
 {{< tdclose >}}{{< tdopen >}}
 
@@ -192,7 +192,7 @@ The Hero's Journey: Tennyson, *Morte D'Arthur*
 
 \[DS\] Episode 7.
 
-Tennyson, Alfred Lord. "[The Epic](http://d.lib.rochester.edu/camelot/text/tennyson-epic)," and "[Morte D'Arthur](http://d.lib.rochester.edu/camelot/text/tennyson-epic)." 1842.
+Tennyson, Alfred Lord. "[The Epic](https://americanliterature.com/author/alfred-lord-tennyson/poem/the-epic)," and "[Morte D'Arthur](https://www.poetryfoundation.org/poems/45370/morte-darthur)." 1842.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -204,7 +204,7 @@ Whole Into Parts: Charles Dickens, *The Pickwick Papers*
 
 Dickens, Charles. {{% resource_link "24d925ce-0493-95d8-6959-d29e19caa32b" "Prefaces (PDF)" %}} in *The Pickwick Papers.*
 
-———. {{% resource_link "26a79bb3-2740-da72-4657-896f332ef750" "Chapters 1–2 (PDF)" %}} in *The Pickwick Papers*.     
+———. {{% resource_link "26a79bb3-2740-da72-4657-896f332ef750" "Chapters 1–2 (PDF)" %}} in *The Pickwick Papers*.      
 (Full text at [Project Gutenberg](http://www.gutenberg.org/ebooks/580).)
 
 Hughes, Linda K., and Michael Lund. "Introducing the Serial." In *The Victorian Serial*. University of Virginia Press, 1991. ISBN: 9780813913148.
